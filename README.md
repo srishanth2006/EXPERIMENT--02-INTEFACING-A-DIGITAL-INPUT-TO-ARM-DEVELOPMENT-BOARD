@@ -157,16 +157,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 
-
-
-
 ## Output  :
-![image](https://github.com/user-attachments/assets/3244f38d-2183-46be-8504-0b471ed56154)
- 
-## layout of the circuit 
-![image](https://github.com/user-attachments/assets/8cb3e89c-42bd-4c64-b948-5c2d2b5e5df4)
+ <img width="1090" height="758" alt="image" src="https://github.com/user-attachments/assets/5ecd3d56-9877-4db9-9318-81aaef89c7c4" />
 
+## layout of the circuit:
  
- 
+<img width="1093" height="775" alt="image" src="https://github.com/user-attachments/assets/c3811edd-4a19-4968-a58f-db0e88560507" />
+
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
